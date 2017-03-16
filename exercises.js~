@@ -62,7 +62,7 @@ function isPrime(num) {
 	if (num < 2)
 		return false;
 	var primeCheck = true, count = Math.floor(Math.sqrt(num)); 
-	while (primeCheck === true && count >= 2) {
+	while (primeCheck === true && count > 2) {
 		if (num % count === 0) {
 			primeCheck === false;
 			return false;

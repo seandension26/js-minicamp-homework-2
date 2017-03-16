@@ -4,12 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* for loop - A for loop will run a section of code a certain number of times based on certain conditions. It has three parts, a varible initialization, a loop augmentation, and a end condition.
-	* && || ! - "&&", "||", and "!" are logical operators. "&&" will return true as long as both expressions on either side of it return true while "||" will return ture as long as either expression returns true. "!" will return 
-		false as long as the expression evaluates to true otherwise it will return false.  
-	* Array - An array is a data structure that can contain any number of data values that are stored in a numerical ordering system.  
-	* git - Git is a version control application that allows for entire projects to have saved checkpoints taht can be feffered back to.
-	* GitHub - Github is a cloud based storage application for version control repositories.
+	* for loop
+	* && || !
+	* Array
+	* git
+	* GitHub
 
 
 2. Install git.  https://git-scm.com/downloads
